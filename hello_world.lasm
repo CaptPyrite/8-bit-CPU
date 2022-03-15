@@ -1,0 +1,17 @@
+RSTR: [b"h"], $0x0
+RSTR: [b"e"], $0x1
+RSTR: [b"l"], $0x2
+RSTR: [b"l"], $0x3
+RSTR: [b"o"], $0x4
+
+RSTR: [b" "], $0x5
+
+RSTR: [b"w"], $0x6
+RSTR: [b"o"], $0x7
+RSTR: [b"r"], $0x8
+RSTR: [b"l"], $0x9
+RSTR: [b"d"], $0xa
+RSTR: [b"!"], $0xb
+
+
+PRNT: [0x0:0xb], %ascii
